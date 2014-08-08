@@ -2,7 +2,7 @@ require "codeclimate-test-reporter"
 CodeClimate::TestReporter.start
 
 require 'bundler/setup'
-require 'polylink_api'
+require 'go_to_mars'
 
 Bundler.setup
 
